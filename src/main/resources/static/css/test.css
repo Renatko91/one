@@ -1,0 +1,37 @@
+a {
+  color: white;
+}
+
+h1 {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+form {
+  display: block;
+  background: #5B3C67;
+  padding: 50px;
+  width: 35%;
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+form input {
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 20px;
+  //margin-left: 40%;
+  width: 25%;
+  height: 35px;
+  border: 1px solid #ff8c00;
+}
+
+table {
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
